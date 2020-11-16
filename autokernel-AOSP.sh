@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone Repo
-/r git clone https://github.com/MumetNgoding/BrynKernel-AOSP
+git clone https://github.com/MumetNgoding/BrynKernel-AOSP
 
 # Enter dir Repo
 /cd BrynKernel-AOSP
